@@ -1,7 +1,7 @@
 pragma solidity ^0.6.0;
 
 contract BoxV2 {
-    // ... code from Box.sol
+    // ...code from Box.sol
     uint256 private value;
 
     // Emitted when the stored value changes
